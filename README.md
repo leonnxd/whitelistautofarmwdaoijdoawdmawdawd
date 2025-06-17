@@ -1,1 +1,1 @@
-# whitelistautofarmwdaoijdoawdmawdawd
+to add to the whitelist
