@@ -1,1 +1,1 @@
-to add to the whitelist
+["bolzani1533pcc", "", "", "", "", "", "", ""]
